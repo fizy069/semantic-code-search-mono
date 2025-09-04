@@ -1,0 +1,6 @@
+[submodule "search-engine"]
+	path = search-engine
+	url = https://github.com/fizy069/semantic-code-search
+[submodule "type-inference"]
+	path = type-inference
+	url = https://github.com/fizy069/hmloc
